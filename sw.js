@@ -1,4 +1,4 @@
-const CACHE = 'alzain-pwa-v2'
+const CACHE = 'alzain-pwa-v3'
 const SCOPE_URL = new URL('./', self.location.href)
 const INDEX_URL = new URL('index.html', SCOPE_URL).href
 const SHELL = [
